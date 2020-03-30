@@ -7,3 +7,7 @@
 #     puts "The Dog is sitting"
 #   end 
 # end 
+
+class Dog
+  
+end
